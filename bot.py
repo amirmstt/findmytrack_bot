@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ===== تنظیمات ربات =====
-TOKEN = "7609797156:AAFiRNxZjAwRuc_Tx0E7KCivFUPXdvFnp6o"
+TOKEN = ""
 MUSIC_FOLDER = "C:\\Users\\Shay\\Desktop\\mymusicbot\\music"
 user_playlists = {}
 
